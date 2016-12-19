@@ -1,2 +1,2 @@
 # licenses
-Repsoitory holding license texts.
+Repository holding license texts.
